@@ -3,6 +3,8 @@
 
 Python is a powerful, high-level programming language that is widely used in many different fields, including web development, data science, artificial intelligence, and more. It is known for its simple, easy-to-read syntax, which makes it an ideal choice for beginners and experts alike. In this article, we will explore some of the key features of Python and why it is such a popular choice for programmers.
 
+![python_logo](https://www.python.org/static/img/python-logo@2x.png)
+
 ## Why Python is Popular
 
 Python is a popular programming language for many reasons. Some of the key features that make it so attractive to programmers include:
@@ -31,7 +33,7 @@ Python is widely used in many different fields, such as:
 
 ## Getting Started with Python
 
-To get started with Python, you will need to download and install the Python software. You can download the latest version of Python from the official Python website (https://www.python.org/downloads). Once you have installed Python, you can start writing and running code.
+To get started with Python, you will need to download and install the Python software. You can download the latest version of Python from the official [Python website](https://www.python.org/downloads) (https://www.python.org/downloads). Once you have installed Python, you can start writing and running code.
 
 To write code in Python, you can use any text editor or integrated development environment (IDE). Some popular IDEs for Python include IDLE (the built-in Python IDE), PyCharm, and Visual Studio Code.
 
@@ -48,14 +50,16 @@ Python has a wide range of libraries available that provide additional functiona
 
 ## Python Functions
 
-Python functions are blocks of code that can be reused multiple times. A function is defined using the def keyword, followed by the function name and a set of parentheses. The code inside the function is executed when the function is called.
+Python functions are blocks of code that can be reused multiple times. A function is defined using the `def` keyword, followed by the function name and a set of parentheses. The code inside the function is executed when the function is called.
 
 For example, the following code defines a function called greet that prints a message:
 
+```python
 def greet(name):
     print(f"Hello, {name}")
 
 greet("John")
+```
 
 When the code is run, it will print "Hello, John".
 
@@ -78,15 +82,15 @@ Python is a powerful, high-level programming language that is widely used in man
 
 As the famous computer scientist, Guido van Rossum, the creator of Python, said:
 
-Python is an easy-to-use programming language for people who want to express concepts in code. It has a simple syntax, large community, and vast libraries for a variety of tasks. That's why I love it.
+> Python is an easy-to-use programming language for people who want to express concepts in code. It has a simple syntax, large community, and vast libraries for a variety of tasks. That's why I love it.
 
 ## Resources
 
 Here are some helpful resources for learning more about Python:
 
-* Python.org - The official website for Python, with a wealth of information and resources for learning the language.
+* [Python.org](https://www.python.org) - The official website for Python, with a wealth of information and resources for learning the language.
 
-* Python for Data Science Handbook - A free online book that provides a comprehensive introduction
+* [Python for Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) - A free online book that provides a comprehensive introduction
 
 ___
 
